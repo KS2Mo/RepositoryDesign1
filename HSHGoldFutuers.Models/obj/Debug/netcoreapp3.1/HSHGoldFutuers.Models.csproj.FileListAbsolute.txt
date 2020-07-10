@@ -1,0 +1,7 @@
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\bin\Debug\netcoreapp3.1\HSHGoldFutuers.Models.deps.json
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\bin\Debug\netcoreapp3.1\HSHGoldFutuers.Models.dll
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\obj\Debug\netcoreapp3.1\HSHGoldFutuers.Models.AssemblyInfoInputs.cache
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\obj\Debug\netcoreapp3.1\HSHGoldFutuers.Models.AssemblyInfo.cs
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\bin\Debug\netcoreapp3.1\HSHGoldFutuers.Models.pdb
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\obj\Debug\netcoreapp3.1\HSHGoldFutuers.Models.dll
+C:\Users\kassa\source\repos\HSHGoldFutuers\HSHGoldFutuers.Models\obj\Debug\netcoreapp3.1\HSHGoldFutuers.Models.pdb
